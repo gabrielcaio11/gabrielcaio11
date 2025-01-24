@@ -1,23 +1,70 @@
 # Gabriel Caio
 
-Estudante de Ciência da Computação com paixão por Back-end e esportes, busco aprimorar minhas habilidades e compartilhar conhecimento. Minhas principais atividades incluem: - Participação ativa em projetos de extensão universitária: atuo como mentor, ensinando lógica de programação para alunos do ensino fundamental II e ensino médio. - Competições de programação: participo de maratonas de programação, aprimorando minhas habilidades e me desafiando. - Aprimoramento contínuo em programação: dedico-me a aprender novas tecnologias e aperfeiçoar minhas habilidades em programação.
+###
 
-### Conecte-se comigo
+<h2 align="left">Sobre min</h2>
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gabrielcaio848)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gabrielcaio848@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gabriel-caio-8695442b1/)
+###
 
-### Habilidades
+<p align="left">Estudante de Ciência da Computação com paixão por Back-end e esportes, busco aprimorar minhas habilidades e compartilhar conhecimento. Minhas principais atividades incluem: - Participação ativa em projetos de extensão universitária: atuo como mentor, ensinando lógica de programação para alunos do ensino fundamental II e ensino médio. - Competições de programação: participo de maratonas de programação, aprimorando minhas habilidades e me desafiando. - Aprimoramento contínuo em programação: dedico-me a aprender novas tecnologias e aperfeiçoar minhas habilidades em programação.</p>
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-    <img align="center" alt="Gabriel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-    <img align="center" alt="Gabriel-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
-    <img align="center" alt="Gabriel-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" >
-    <img align="center" alt="Gabriel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-    <img align="center" alt="Gabriel-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+###
+
+<h2 align="left">Tecnologias e ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
+###
+
+<p align="left">Social Media</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-caio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielcaio848@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielcaio11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcaio11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/gabrielcaio11/gabrielcaio11/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### GitHub Stats
 
