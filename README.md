@@ -6,9 +6,9 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação com paixão por Back-end e esportes, busco aprimorar minhas habilidades e compartilhar conhecimento. Minhas principais atividades incluem: - Participação ativa em projetos de extensão universitária: atuo como mentor, ensinando lógica de programação para alunos do ensino fundamental II e ensino médio. 
-- Competições de programação: participo de maratonas de programação, aprimorando minhas habilidades e me desafiando. 
-- Aprimoramento contínuo em programação: dedico-me a aprender novas tecnologias e aperfeiçoar minhas habilidades em programação.</p>
+<p align="left">Estudante de Ciência da Computação com paixão por Back-end e esportes, busco aprimorar minhas habilidades e compartilhar conhecimento. Minhas principais atividades incluem: <br>- Participação ativa em projetos de extensão universitária: atuo como mentor, ensinando lógica de programação para alunos do ensino fundamental II e ensino médio. 
+<br>- Competições de programação: participo de maratonas de programação, aprimorando minhas habilidades e me desafiando. 
+<br>- Aprimoramento contínuo em programação: dedico-me a aprender novas tecnologias e aperfeiçoar minhas habilidades em programação.</p>
 
 ###
 
