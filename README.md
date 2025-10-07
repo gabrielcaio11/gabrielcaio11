@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Gabriel and I'm a Back-end Developer from Brazil.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
