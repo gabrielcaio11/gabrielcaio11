@@ -10,7 +10,24 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação com paixão por Back-end e esportes, busco aprimorar minhas habilidades e compartilhar conhecimento. Minhas principais atividades incluem:<br>- Participação ativa em projetos de extensão universitária: atuo como mentor, ensinando lógica de programação para alunos do ensino fundamental II e ensino médio.<br>- Competições de programação: participo de maratonas de programação, aprimorando minhas habilidades e me desafiando.<br>- Aprimoramento contínuo em programação: dedico-me a aprender novas tecnologias e aperfeiçoar minhas habilidades em programação.</p>
+<p align="left">Tenho uma trajetória voltada para o desenvolvimento de software com foco em Java e Spring Boot, atuando em projetos que vão desde a modelagem de entidades até a implementação de APIs robustas e seguras. Ao longo do meu percurso, busquei sempre unir teoria e prática, aplicando conceitos de Clean Code, SOLID, DDD e boas práticas de arquitetura para construir soluções escaláveis e de qualidade.
+
+Minhas Habilidades Técnicas:
+
+- Linguagem: Java
+- Frameworks: Spring Boot
+- Banco de Dados: MySQL | PostgreSQL
+- Testes: JUnit | Mockito
+- ORM: JPA | Hibernate
+
+Boas Práticas & Ferramentas:
+- Versionamento: Git
+- Princípios: Clean Code, SOLID  
+- Containers: Docker  
+
+Além de configurações avançadas como uso de variáveis de ambiente e documentação eficiente. Tenho experiência com metodologias ágeis, o que me permite colaborar em equipes dinâmicas, entregando valor de forma constante e organizada.
+
+Objetivo: Consolidar minha carreira como desenvolvedor Back End Java, construindo soluções corporativas para otimizar processos e entregar resultados escaláveis.  </p>
 
 ###
 
